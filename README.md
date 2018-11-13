@@ -1,6 +1,6 @@
 # sesion7-tarea-grupo
 
-Pràctica per a realitzar al taller. Grups de 2 a 3 alumnes.
+Pràctica per a realitzar al taller. Grups de 4 alumnes.
 
 1.	Busca el manual de la placa base d'un model que serà dit pel professor, el manual ha d'estar en anglès. Feu un resum i respon a les preguntes del professor.
 
